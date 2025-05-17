@@ -14,14 +14,6 @@ Hi, I'm Syed Ali Asghar Naqvi — a master's student and AI Creative Strategist 
 
 ---
 
-## Contribution Graph
-
-![Syed's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AliNaqviOne&theme=github)
-
----
-
 ## Contribution Chart
 
 ![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliNaqviOne&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNaqviOne&layout=compact&theme=radical)
