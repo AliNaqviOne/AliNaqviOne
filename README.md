@@ -1,16 +1,27 @@
-## Hi there 👋
+## About Me
 
-<!--
-**AliNaqviOne/AliNaqviOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Syed Ali Asghar Naqvi — a master's student and AI Creative Strategist based in Barcelona, Spain. I specialize in neural networks and have hands-on experience in various AI techniques, including deep learning, reinforcement learning, and natural language processing. I’m passionate about leveraging AI to solve real-world problems and create innovative business solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach Me
+
+- 📧 Email: wasishah.one@gmail.com  
+- 📞 Phone: +34 612 574 097  
+- 🌍 Location: Barcelona, Spain  
+- 💼 LinkedIn: [linkedin.com/in/aliasgharone](https://www.linkedin.com/in/aliasgharone/)  
+- 💻 GitHub: [github.com/AliNaqviOne](https://github.com/AliNaqviOne)
+
+---
+
+## Contribution Graph
+
+![Syed's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AliNaqviOne&theme=github)
+
+---
+
+## Contribution Chart
+
+![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliNaqviOne&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNaqviOne&layout=compact&theme=radical)
