@@ -13,6 +13,6 @@
 <h3 align="left">Stats:</h3>
 <p align="center">
   <a href="https://github.com/aliasgharone/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliasgharone&theme=merko" alt="Ali Naqvi's github activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliNaqviOne&theme=merko" alt="Ali Naqvi's github activity graph" />
   </a>
 </p>
