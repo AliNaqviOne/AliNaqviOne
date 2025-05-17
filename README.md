@@ -7,10 +7,14 @@ Hi, I'm Syed Ali Asghar Naqvi — a master's student and AI Creative Strategist 
 ## Reach Me
 
 - 📧 Email: wasishah.one@gmail.com  
-- 📞 Phone: +34 612 574 097  
 - 🌍 Location: Barcelona, Spain  
 - 💼 LinkedIn: [linkedin.com/in/aliasgharone](https://www.linkedin.com/in/aliasgharone/)  
-- 💻 GitHub: [github.com/AliNaqviOne](https://github.com/AliNaqviOne)
+
+---
+
+## Contribution Graph
+
+![Syed's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AliNaqviOne&theme=github)
 
 ---
 
