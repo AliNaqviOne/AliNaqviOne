@@ -9,6 +9,6 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<a  </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alinaqvione&" alt="alinaqvione" /></p>
