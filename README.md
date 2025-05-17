@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Naqvi</h1>
+<h1 align="center">¡Hola! 👋, I'm Ali Naqvi</h1>
 <h3 align="center">AI Creative strategist and master’s student specializing in Agentic AI</h3>
 
 - 📫 How to reach me **wasishah.one@gmail.com**
