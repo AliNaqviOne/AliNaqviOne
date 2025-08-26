@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! 👋, I'm Ali Naqvi</h1>
+<h1 align="center">¡Hola! 👋, I'm Sudhanshu Katoch</h1>
 <h3 align="center">AI Creative strategist and master’s student specializing in Agentic AI</h3>
 
-- 📫 How to reach me **wasishah.one@gmail.com**
+- 📫 How to reach me **sudhanshukatoch707@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
